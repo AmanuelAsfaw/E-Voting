@@ -1,0 +1,1 @@
+[{"student_id": "stu12", "first_name": "qaz", "last_name": "wsx", "department": "cse", "section": 2, "year": 2010, "voted": false, "password": "$pbkdf2-sha256$29000$hFBq7f1fi9Ha27uX0lqrFQ$.rDRkFYjT2tIdqltUfqEbc10QVJRMw252/RhVgtWw2Y", "status": null}]

@@ -1,0 +1,2 @@
+[{"index": 0, "preveous_hash": "", "votes": [], "proof": 100, "timestamp": "00:11:59.687934"}]
+[]
